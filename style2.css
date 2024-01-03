@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+.name-highlight{
+    color: darkorange;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,rgb(208, 108, 31));
+    padding: 2%;
+    border: 2%;
+    color: aliceblue;
+    font-weight: bold;
+}
+.half-width{
+    margin-top: 5%;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    
+}
+.half-width img{
+    width: 70%;
+    padding: 2%;
+    border: 5%;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.top-banner{
+    background-image: url(images/img2.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+.half-width2{
+    margin-top: 5%;
+    width: 40%;
+    margin-right: 5%;
+    padding-right: 2%;
+    float: right;
+}
+.half-width2 img{
+    width: 60%;
+    padding: 5%;
+    border: 5%;
+}
+.second-banner{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-image: url(images/img3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.work{
+    text-align: center;
+}
+
+.image-contain{
+    display: flex;
+    justify-content: space-around;
+}
+.image-contain img{
+    padding: 2%;
+    max-width: 20%;
+    max-height: 1%;
+    border: 3px solid;
+}
+.third-banner{
+    background-image: url(images/img4.jpeg);
+    background-size: cover;
+}
+.last-banner{
+    margin-top: 10%;
+    border: 5%;
+    padding: 5%;
+    background-image: url(images/img5.jpeg);
+    background-size: cover;
+}
+.clients{
+    text-align: center;
+    padding-top: 5%;
+}
+.clients2{
+    text-align: center;
+}
+.box{
+    margin-left: 39%;
+    margin-top: 5%;
+    text-align: center;
+    width: 300px;
+    background-color: darksalmon;
+}
+h4{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
